@@ -1,0 +1,10 @@
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\bahisOyunu\bahisOyunu\bin\Debug\bahisOyunu.exe.config
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\bahisOyunu\bahisOyunu\bin\Debug\bahisOyunu.exe
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\bahisOyunu\bahisOyunu\bin\Debug\bahisOyunu.pdb
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\bahisOyunu\bahisOyunu\obj\Debug\bahisOyunu.csprojAssemblyReference.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\bahisOyunu\bahisOyunu\obj\Debug\bahisOyunu.Form1.resources
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\bahisOyunu\bahisOyunu\obj\Debug\bahisOyunu.Properties.Resources.resources
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\bahisOyunu\bahisOyunu\obj\Debug\bahisOyunu.csproj.GenerateResource.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\bahisOyunu\bahisOyunu\obj\Debug\bahisOyunu.csproj.CoreCompileInputs.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\bahisOyunu\bahisOyunu\obj\Debug\bahisOyunu.exe
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\bahisOyunu\bahisOyunu\obj\Debug\bahisOyunu.pdb
